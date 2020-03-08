@@ -1,0 +1,12 @@
+{
+  "name": "dark-sockets",
+  "version": "0.1.0",
+  "description": "",
+  "main": "./socket-io/app.js",
+  "scripts": {
+    "test": "mocha tests/*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": ""
+}
